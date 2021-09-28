@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    border: none;
+
+}
+
+body {
+    background-color: cyan;
+}
+
+/*made by Rahand.Amin*/
+button {
+    border: 5px solid gold;
+    background-color: transparent;
+    font-size: 40px;
+    font-weight: 900;
+    box-shadow: inset 1px 2px 20px 8px gold;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    margin-top: 18.5%;
+
+}
+
+button:hover {
+    background-color: grey;
+    transition: 0.3s;
+}
